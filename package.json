@@ -1,0 +1,16 @@
+{
+  "name": "replace-many",
+  "version": "0.1.0",
+  "description": "Replace many from any text file.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "replace": "node replace.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
